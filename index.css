@@ -1,0 +1,38 @@
+body{
+    margin:20px;
+    background-color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: gold;
+    box-sizing:border-box;
+   
+}
+#cityinput{
+      height: 10%;
+      color: gold;
+       font-size: 1.25rem;
+    }
+#btn{
+     background-color: goldenrod;
+    color:black;
+    font-size: 1.40rem;
+    margin-left: 30px;
+
+
+}
+#input{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXFQQYi8vYQZxltxNbOHs4KGPtdopoWQutw&usqp=CAU');
+    background-size: cover;
+    width:80vw;
+    height:50vh;
+    padding:30px 20px 30px 20px;
+    
+}
+#output{
+    background-color:rgba(128,128,128,0.669);
+    color:blanchedalmond;
+    width:80vw;
+    height:50vh;
+    padding:30px 20px 30px 20px;
+    
+}
